@@ -16,5 +16,7 @@ simranpromise.then((msg)=>{
 }).catch((msg)=>{
     console.log("Simran message : ", msg)
     console.log("Tinder kaha ho yaar")
+}).finally(()=> {
+    console.log("Finally, clarity mili")
 })
 
