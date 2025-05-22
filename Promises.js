@@ -20,3 +20,4 @@ simranpromise.then((msg)=>{
     console.log("Finally, clarity mili")
 })
 
+console.log('Hlw')
